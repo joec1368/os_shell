@@ -11,4 +11,4 @@
     * record : show the last-16 commands
     * replay :  re-execute the command that is listed in record
     * mypid : show the related pids about the process
-    * 
+   
